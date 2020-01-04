@@ -1,0 +1,18 @@
+.main {
+    flex: 0 1 50%;
+    /*display: flex;*/
+    /*display: -webkit-flex; !* Safari *!*/
+}
+
+.table {
+    background-color: white;
+    border: 1px solid #dfdfdf;
+}
+
+.item {
+    text-align: center;
+    vertical-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 150%;
+}
