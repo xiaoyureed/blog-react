@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/blog-react/static/css/main.8e05c292.chunk.css",
+    "main.js": "/blog-react/static/js/main.bbeb2b4e.chunk.js",
+    "main.js.map": "/blog-react/static/js/main.bbeb2b4e.chunk.js.map",
+    "runtime~main.js": "/blog-react/static/js/runtime~main.7d3294be.js",
+    "runtime~main.js.map": "/blog-react/static/js/runtime~main.7d3294be.js.map",
+    "static/js/2.252c9cb2.chunk.js": "/blog-react/static/js/2.252c9cb2.chunk.js",
+    "static/js/2.252c9cb2.chunk.js.map": "/blog-react/static/js/2.252c9cb2.chunk.js.map",
+    "index.html": "/blog-react/index.html",
+    "precache-manifest.81549cc0d0d676c4daae50dad54697f6.js": "/blog-react/precache-manifest.81549cc0d0d676c4daae50dad54697f6.js",
+    "service-worker.js": "/blog-react/service-worker.js",
+    "static/css/main.8e05c292.chunk.css.map": "/blog-react/static/css/main.8e05c292.chunk.css.map",
+    "static/media/avatar.jpeg": "/blog-react/static/media/avatar.5cae69e3.jpeg",
+    "static/media/head.png": "/blog-react/static/media/head.fd0a5a14.png"
+  }
+}
